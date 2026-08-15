@@ -5,5 +5,6 @@ public class Main {
         System.out.println("This is a Test!");
         System.out.println("This is a Git!");
         System.out.println("Hello,Workbuddy!");
+        System.out.println("Hello，AI Viber Coding");
     }
 }
