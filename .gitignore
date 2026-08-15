@@ -1,0 +1,8 @@
+# Compiled class files
+*.class
+
+# IDE / OS noise
+.idea/
+*.iml
+.vscode/
+.DS_Store
